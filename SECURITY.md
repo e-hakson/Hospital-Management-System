@@ -20,7 +20,7 @@ currently being supported with security updates.
 ## Reporting a Vulnerability
 
 If you found a security issue, report us by:
-* [Report a Vulnerability](https://github.com/e-hakson/Hospital-Management-System/security) Section
+* [Report a Vulnerability](https://github.com/e-hakson/Plague/security) Section
 
 Once the report will be handled, and if the issue is not yet fixed (or in progress) we'll add it to the GitHub security tab, and add you as observer. Meanwhile, you will reserve a CVE for the issue.
 
