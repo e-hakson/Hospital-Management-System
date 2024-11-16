@@ -1,4 +1,4 @@
-# Hospital Management System v1.0.1
+# Plague - Hospital Management System v1.0.1
 
 
 **Home Page**
